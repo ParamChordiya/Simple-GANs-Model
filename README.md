@@ -4,5 +4,5 @@ This project will help you understand the basic structure of GANs and how they w
 
 # To Run:
 
-Open the file: `OPEN` \n
+Open the file: `OPEN` </br>
 On each cell: `SHIFT + ENTER` 
