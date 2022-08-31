@@ -4,5 +4,6 @@ This project will help you understand the basic structure of GANs and how they w
 
 # To Run:
 
-Open the file: `OPEN` </br>
+Open the file in `JUPYTER NOTEBOOK` or `GOOGLE COLAB` </br>
+Don't forget to change the *Runtime* to `GPU` </br>
 On each cell: `SHIFT + ENTER` 
